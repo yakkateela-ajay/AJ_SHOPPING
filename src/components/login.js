@@ -4,7 +4,7 @@ class login extends Component {
     render() {
         return (
             <div>
-                welcome to AJ-SHOPPING
+                welcome to AJ-SHOPPING with ajay and john
             </div>
         );
     }
